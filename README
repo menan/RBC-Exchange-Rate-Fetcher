@@ -1,0 +1,3 @@
+Fetches exchange rate from RBC website(following URL) and displays it in an xml file.
+
+http://www.rbcroyalbank.com/rates/cashrates.html
